@@ -415,15 +415,15 @@ right_noluck <- m_diff_noluck + error_noluck
 df <- data.frame(m_diff = c(m_diff_lucky, m_diff_noluck),
                  left_ci = c(left_lucky, left_noluck),
                  right_ci = c(right_lucky, right_noluck),
-                 study = c("lucky", "noluck"))
+                 study = c("Lucky (2008)", "Noluck (2008)"))
 
 library(tidyverse)
 
 df %>% ggplot() +
   aes(m_diff, study) +
   geom_point() +
-  geom_errorbarh(aes(xmax = right_ci, xmin = left_ci), height=.2)
- 
+  geom_errorbarh(aes(xmax = right_ci, xmin = left_ci), height=.2) +
+  xlab("Difference between the means")
 ```
 
 ### Figure 1.2 from [Cummings 2012](https://thenewstatistics.com/itns/)
@@ -450,6 +450,7 @@ df_meta %>% ggplot() +
   geom_point() +
   geom_errorbarh(aes(xmax = right_ci, xmin = left_ci), height=.2) +
   ggtitle("Results of meta-analysis on Lucky (2008) and Noluck (2008)") +
-  xlim(-1,7)
+  xlim(-1,7) +
+  xlab("Difference between the means")
 ```
 
