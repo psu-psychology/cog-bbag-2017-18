@@ -1,7 +1,7 @@
 2017-09-06-Pashler-de-Ruiter
 ================
 Rick O. Gilmore
-2017-09-05 10:19:52
+2017-09-05 16:35:21
 
 Purpose
 -------
@@ -22,6 +22,7 @@ Reading(s)
 -   Etz, A., & Vandekerckhove, J. (2016). A Bayesian Perspective on the Reproducibility Project: Psychology. PloS one, 11(2), e0149794. Retrieved October 9, 2016, from <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149794>
 -   Gilbert, D. T., King, G., Pettigrew, S., & Wilson, T. D. (2016). Comment on “Estimating the reproducibility of psychological science.” Science, 351(6277), 1037–1037. Retrieved March 27, 2016, from <http://science.sciencemag.org/content/351/6277/1037.2-> Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716–aac4716. American Association for the Advancement of Science. Retrieved February 17, 2017, from <http://science.sciencemag.org/content/349/6251/aac4716>
 -   Gilmore, R. O., & Adolph, K. E. (2017). Video can make behavioural science more reproducible. Nature Human Behavior, 1. Retrieved from <http://dx.doi.org/10.1038/s41562-017-0128>
+-   Mischel, W. (2011). Becoming a cumulative science. APS observer, 22(1). Retrieved from <https://www.psychologicalscience.org/observer/becoming-a-cumulative-science>
 -   Morey, R. D., & Lakens, D. (2016). Why most of psychology is statistically unfalsifiable. Manuscript submitted for publication. Available at: github.com/richarddmorey/psychology\_resolution/blob/master/paper/response.pdf
 -   Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Sert, N. P. du, Simonsohn, U., et al. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1, 0021. Retrieved January 10, 2017, from <http://www.nature.com/articles/s41562-016-0021>
 -   Pashler, H., & Harris, C. R. (2012). Is the Replicability Crisis Overblown? Three Arguments Examined. Perspectives on psychological science: a journal of the Association for Psychological Science, 7(6), 531–536. Retrieved October 22, 2016, from <http://pps.sagepub.com/content/7/6/531>
@@ -85,7 +86,7 @@ Threats to credibility in *psychology*
 -   Implausible claims: [Bem 2011](http://dx.doi.org/10.1037/a0021524); [Bem et al. 2015](http://dx.doi.org/10.12688/f1000research.7177.2); [Wagenmakers et al. 2011](http://dx.doi.org/10.1037/a0022790)
 -   Challenges to reproducibility: [Open Science Collaboration 2015](http://science.sciencemag.org/content/349/6251/aac4716); [Anderson et al. 2016](Anderson,%20C.%20J.,%20Bahník,%20Š.,%20Barnett-Cowan,%20M.,%20Bosco,%20F.%20A.,%20Chandler,%20J.,%20Chartier,%20C.%20R.,%20Cheung,%20F.,%20et%20al.%20(2016).%20Response%20to%20comment%20on%20“Estimating%20the%20reproducibility%20of%20psychological%20science.”%20Science,%20351(6277),%201037.%20Retrieved%20from%20http://dx.doi.org/10.1126/science.aad9163); [Gilbert et al 2016](http://science.sciencemag.org/content/349/6251/aac4716); [Etz & Vandekerckhove 2016](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149794); [Morey & Lakens 2016](github.com/richarddmorey/psychology_resolution/blob/master/paper/response.pdf).
 -   Low power: [Button et al. 2013](http://www.nature.com/nrn/journal/v14/n5/full/nrn3475.html); [Poldrack et al. 2017](Poldrack,%20R.%20A.,%20Baker,%20C.%20I.,%20Durnez,%20J.,%20Gorgolewski,%20K.%20J.,%20Matthews,%20P.%20M.,%20Munafò,%20M.%20R.,%20Nichols,%20T.%20E.,%20et%20al.%20(2017).%20Scanning%20the%20horizon:%20towards%20transparent%20and%20reproducible%20neuroimaging%20research.%20Nature%20reviews.%20Neuroscience,%20advance%20online%20publication.%20Retrieved%20January%206,%202017,%20from%20http://www.nature.com/nrn/journal/vaop/ncurrent/full/nrn.2016.167.html); [Szucs & Ioannides 2017](http://dx.doi.org/10.1371/journal.pbio.2000797)
--   Statistical practices
+-   Statistical practices: flexible stopping rules, *p*-hacking, reporting errors, ...
 
 If so, what to do?
 ==================
