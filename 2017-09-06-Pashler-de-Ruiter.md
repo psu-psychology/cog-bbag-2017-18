@@ -1,7 +1,7 @@
 2017-09-06-Pashler-de-Ruiter
 ================
 Rick O. Gilmore
-2017-09-05 16:35:21
+2017-09-05 16:39:14
 
 Purpose
 -------
@@ -23,7 +23,7 @@ Reading(s)
 -   Gilbert, D. T., King, G., Pettigrew, S., & Wilson, T. D. (2016). Comment on “Estimating the reproducibility of psychological science.” Science, 351(6277), 1037–1037. Retrieved March 27, 2016, from <http://science.sciencemag.org/content/351/6277/1037.2-> Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716–aac4716. American Association for the Advancement of Science. Retrieved February 17, 2017, from <http://science.sciencemag.org/content/349/6251/aac4716>
 -   Gilmore, R. O., & Adolph, K. E. (2017). Video can make behavioural science more reproducible. Nature Human Behavior, 1. Retrieved from <http://dx.doi.org/10.1038/s41562-017-0128>
 -   Mischel, W. (2011). Becoming a cumulative science. APS observer, 22(1). Retrieved from <https://www.psychologicalscience.org/observer/becoming-a-cumulative-science>
--   Morey, R. D., & Lakens, D. (2016). Why most of psychology is statistically unfalsifiable. Manuscript submitted for publication. Available at: github.com/richarddmorey/psychology\_resolution/blob/master/paper/response.pdf
+-   Morey, R. D., & Lakens, D. (2016). Why most of psychology is statistically unfalsifiable. Manuscript submitted for publication. Available at: github.com/richarddmorey/psychology\_resolution/blob/master/paper/response.pdf. [Shiny app simulations](https://richarddmorey.shinyapps.io/RPP_results/).
 -   Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Sert, N. P. du, Simonsohn, U., et al. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1, 0021. Retrieved January 10, 2017, from <http://www.nature.com/articles/s41562-016-0021>
 -   Pashler, H., & Harris, C. R. (2012). Is the Replicability Crisis Overblown? Three Arguments Examined. Perspectives on psychological science: a journal of the Association for Psychological Science, 7(6), 531–536. Retrieved October 22, 2016, from <http://pps.sagepub.com/content/7/6/531>
 -   Szucs, D., & Ioannidis, J. P. A. (2017). Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature. PLoS biology, 15(3), e2000797. Retrieved from <http://dx.doi.org/10.1371/journal.pbio.2000797>
