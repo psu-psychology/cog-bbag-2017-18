@@ -1,7 +1,7 @@
 2017-09-06-Pashler-de-Ruiter
 ================
 Rick O. Gilmore
-2017-09-05 16:39:14
+2017-09-06 08:26:32
 
 Purpose
 -------
@@ -11,7 +11,7 @@ Discuss [Pashler & de Ruiter (2017)](https://www.psychologicalscience.org/observ
 Reading(s)
 ----------
 
--   Pashler, H., & de Ruiter, J. P. (2017). Taking Responsibility for Our Field’s Reputation. APS observer, 30(30/8). Retrieved September 4, 2017, from <https://www.psychologicalscience.org/observer/taking-responsibility-for-our-fields-reputation>
+-   Pashler, H., & de Ruiter, J. P. (2017). Taking Responsibility for Our Field’s Reputation. *APS Observer*, *30*(30/8). Retrieved September 4, 2017, from <https://www.psychologicalscience.org/observer/taking-responsibility-for-our-fields-reputation>
 
 ### Supplemental
 
@@ -26,6 +26,7 @@ Reading(s)
 -   Morey, R. D., & Lakens, D. (2016). Why most of psychology is statistically unfalsifiable. Manuscript submitted for publication. Available at: github.com/richarddmorey/psychology\_resolution/blob/master/paper/response.pdf. [Shiny app simulations](https://richarddmorey.shinyapps.io/RPP_results/).
 -   Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Sert, N. P. du, Simonsohn, U., et al. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1, 0021. Retrieved January 10, 2017, from <http://www.nature.com/articles/s41562-016-0021>
 -   Pashler, H., & Harris, C. R. (2012). Is the Replicability Crisis Overblown? Three Arguments Examined. Perspectives on psychological science: a journal of the Association for Psychological Science, 7(6), 531–536. Retrieved October 22, 2016, from <http://pps.sagepub.com/content/7/6/531>
+-   Smaldino, P. E., & McElreath, R. (2016). The natural selection of bad science. Royal Society Open Science, 3(9), 160384. Retrieved from <http://dx.doi.org/10.1098/rsos.160384>
 -   Szucs, D., & Ioannidis, J. P. A. (2017). Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature. PLoS biology, 15(3), e2000797. Retrieved from <http://dx.doi.org/10.1371/journal.pbio.2000797>
 -   Wagenmakers, E.-J., Wetzels, R., Borsboom, D., & van der Maas, H. L. J. (2011). Why psychologists must change the way they analyze their data: the case of psi: comment on Bem (2011). Journal of personality and social psychology, 100(3), 426–432. Retrieved from <http://dx.doi.org/10.1037/a0022790>
 
@@ -122,5 +123,7 @@ Reasons not to worry
 --------------------
 
 -   Problems limited to certain sub-fields
+    -   e.g., [not cognitive](http://deskreject.com/2017/09/yes-your-field-does-need-to-worry-about-replicability/)
 -   Making mountains out of molehills
 -   Peer review and competition will (eventually) sort things out
+-   Meta-analysis will (eventually) sort things out
