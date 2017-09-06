@@ -1,7 +1,7 @@
 2017-09-06-Pashler-de-Ruiter
 ================
 Rick O. Gilmore
-2017-09-06 08:26:32
+2017-09-06 13:42:01
 
 Purpose
 -------
@@ -85,8 +85,8 @@ Threats to credibility in *psychology*
 
 -   Scandal: Stapel, Hauser
 -   Implausible claims: [Bem 2011](http://dx.doi.org/10.1037/a0021524); [Bem et al. 2015](http://dx.doi.org/10.12688/f1000research.7177.2); [Wagenmakers et al. 2011](http://dx.doi.org/10.1037/a0022790)
--   Challenges to reproducibility: [Open Science Collaboration 2015](http://science.sciencemag.org/content/349/6251/aac4716); [Anderson et al. 2016](Anderson,%20C.%20J.,%20Bahník,%20Š.,%20Barnett-Cowan,%20M.,%20Bosco,%20F.%20A.,%20Chandler,%20J.,%20Chartier,%20C.%20R.,%20Cheung,%20F.,%20et%20al.%20(2016).%20Response%20to%20comment%20on%20“Estimating%20the%20reproducibility%20of%20psychological%20science.”%20Science,%20351(6277),%201037.%20Retrieved%20from%20http://dx.doi.org/10.1126/science.aad9163); [Gilbert et al 2016](http://science.sciencemag.org/content/349/6251/aac4716); [Etz & Vandekerckhove 2016](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149794); [Morey & Lakens 2016](github.com/richarddmorey/psychology_resolution/blob/master/paper/response.pdf).
--   Low power: [Button et al. 2013](http://www.nature.com/nrn/journal/v14/n5/full/nrn3475.html); [Poldrack et al. 2017](Poldrack,%20R.%20A.,%20Baker,%20C.%20I.,%20Durnez,%20J.,%20Gorgolewski,%20K.%20J.,%20Matthews,%20P.%20M.,%20Munafò,%20M.%20R.,%20Nichols,%20T.%20E.,%20et%20al.%20(2017).%20Scanning%20the%20horizon:%20towards%20transparent%20and%20reproducible%20neuroimaging%20research.%20Nature%20reviews.%20Neuroscience,%20advance%20online%20publication.%20Retrieved%20January%206,%202017,%20from%20http://www.nature.com/nrn/journal/vaop/ncurrent/full/nrn.2016.167.html); [Szucs & Ioannides 2017](http://dx.doi.org/10.1371/journal.pbio.2000797)
+-   Challenges to reproducibility: [Open Science Collaboration 2015](http://science.sciencemag.org/content/349/6251/aac4716); [Anderson et al. 2016](http://dx.doi.org/10.1126/science.aad9163); [Gilbert et al 2016](http://science.sciencemag.org/content/349/6251/aac4716); [Etz & Vandekerckhove 2016](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149794); [Morey & Lakens 2016](github.com/richarddmorey/psychology_resolution/blob/master/paper/response.pdf).
+-   Low power: [Button et al. 2013](http://www.nature.com/nrn/journal/v14/n5/full/nrn3475.html); [Poldrack et al. 2017](http://www.nature.com/nrn/journal/vaop/ncurrent/full/nrn.2016.167.html); [Szucs & Ioannides 2017](http://dx.doi.org/10.1371/journal.pbio.2000797)
 -   Statistical practices: flexible stopping rules, *p*-hacking, reporting errors, ...
 
 If so, what to do?
@@ -127,3 +127,4 @@ Reasons not to worry
 -   Making mountains out of molehills
 -   Peer review and competition will (eventually) sort things out
 -   Meta-analysis will (eventually) sort things out
+-   That's the normal process of science

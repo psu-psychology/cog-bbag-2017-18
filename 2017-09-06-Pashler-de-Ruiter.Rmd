@@ -96,8 +96,8 @@ Handwerk, B. (n.d.). Scientists Replicated 100 Psychology Studies, and Fewer Tha
 
 - Scandal: Stapel, Hauser
 - Implausible claims: [Bem 2011](http://dx.doi.org/10.1037/a0021524); [Bem et al. 2015](http://dx.doi.org/10.12688/f1000research.7177.2); [Wagenmakers et al. 2011](http://dx.doi.org/10.1037/a0022790)
-- Challenges to reproducibility: [Open Science Collaboration 2015](http://science.sciencemag.org/content/349/6251/aac4716); [Anderson et al. 2016](Anderson, C. J., Bahník, Š., Barnett-Cowan, M., Bosco, F. A., Chandler, J., Chartier, C. R., Cheung, F., et al. (2016). Response to comment on “Estimating the reproducibility of psychological science.” Science, 351(6277), 1037. Retrieved from http://dx.doi.org/10.1126/science.aad9163); [Gilbert et al 2016](http://science.sciencemag.org/content/349/6251/aac4716); [Etz & Vandekerckhove 2016](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149794); [Morey & Lakens 2016](github.com/richarddmorey/psychology_resolution/blob/master/paper/response.pdf).
-- Low power: [Button et al. 2013](http://www.nature.com/nrn/journal/v14/n5/full/nrn3475.html); [Poldrack et al. 2017](Poldrack, R. A., Baker, C. I., Durnez, J., Gorgolewski, K. J., Matthews, P. M., Munafò, M. R., Nichols, T. E., et al. (2017). Scanning the horizon: towards transparent and reproducible neuroimaging research. Nature reviews. Neuroscience, advance online publication. Retrieved January 6, 2017, from http://www.nature.com/nrn/journal/vaop/ncurrent/full/nrn.2016.167.html); [Szucs & Ioannides 2017](http://dx.doi.org/10.1371/journal.pbio.2000797)
+- Challenges to reproducibility: [Open Science Collaboration 2015](http://science.sciencemag.org/content/349/6251/aac4716); [Anderson et al. 2016](http://dx.doi.org/10.1126/science.aad9163); [Gilbert et al 2016](http://science.sciencemag.org/content/349/6251/aac4716); [Etz & Vandekerckhove 2016](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149794); [Morey & Lakens 2016](github.com/richarddmorey/psychology_resolution/blob/master/paper/response.pdf).
+- Low power: [Button et al. 2013](http://www.nature.com/nrn/journal/v14/n5/full/nrn3475.html); [Poldrack et al. 2017](http://www.nature.com/nrn/journal/vaop/ncurrent/full/nrn.2016.167.html); [Szucs & Ioannides 2017](http://dx.doi.org/10.1371/journal.pbio.2000797)
 - Statistical practices: flexible stopping rules, *p*-hacking, reporting errors, ...
 
 # If so, what to do?
@@ -132,3 +132,4 @@ Handwerk, B. (n.d.). Scientists Replicated 100 Psychology Studies, and Fewer Tha
 - Making mountains out of molehills
 - Peer review and competition will (eventually) sort things out
 - Meta-analysis will (eventually) sort things out
+- That's the normal process of science
