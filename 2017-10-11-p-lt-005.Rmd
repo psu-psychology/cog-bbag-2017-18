@@ -58,6 +58,8 @@ This document provides some readings and R code to facilitate a discussion about
 
 ### Replicating Benjamin et al. Figure 1
 
+The following code was copied from the Benjamin et al. 2017 [supplemental material](https://static-content.springer.com/esm/art%3A10.1038%2Fs41562-017-0189-z/MediaObjects/41562_2017_189_MOESM1_ESM.pdf) and reformatted slightly for better code readability.
+
 ```{r  benjamin-et-al-2017-figure-1}
 type1 = .005
 type1Power = 0.05
