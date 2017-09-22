@@ -10,11 +10,24 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
-# Necessary package for plotting Figure 2 from Benjamin et al.
-if(!('pBrackets' %in% installed.packages()[, 1])) {
-  install.packages('pBrackets')
+# From https://gist.github.com/smithdanielle/9913897
+# check.packages function: install and load multiple R packages.
+# Check to see if packages are installed. Install them if they are not, then load them into the R session.
+check.packages <- function(pkg){
+    new.pkg <- pkg[!(pkg %in% installed.packages()[, "Package"])]
+    if (length(new.pkg)) 
+        install.packages(new.pkg, dependencies = TRUE)
+    sapply(pkg, require, character.only = TRUE)
 }
-require(pBrackets)
+
+packages <- c("tidyverse", "pBrackets")
+check.packages(packages)
+
+# Necessary package for plotting Figure 2 from Benjamin et al.
+# if(!('pBrackets' %in% installed.packages()[, 1])) {
+#   install.packages('pBrackets')
+# }
+# require(pBrackets)
 ```
 
 ## Motivation
@@ -398,7 +411,9 @@ brackets(
   )
 ```
 
-### Figure 1.1 from [Cummings 2012](https://thenewstatistics.com/itns/)
+### Figure 1.1 from Cummings 2012
+
+[Cummings 2012](https://thenewstatistics.com/itns/)
 
 ```{r cummings-fig-1.1}
 n_lucky = 22
@@ -439,7 +454,9 @@ df %>% ggplot() +
   xlab("Difference between the means")
 ```
 
-### Figure 1.2 from [Cummings 2012](https://thenewstatistics.com/itns/)
+### Figure 1.2 from Cummings 2012
+
+[Cummings 2012](https://thenewstatistics.com/itns/)
 
 ```{r cummings-fig-1.2}
 # Equations from Cummings pp. 211
