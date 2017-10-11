@@ -112,7 +112,6 @@ df_meta %>% ggplot() +
   xlab("Difference between the means")
 ```
 
-
 ## Benjamin Fig 1
 
 ```{r  benjamin-et-al-2017-figure-1, echo=FALSE}

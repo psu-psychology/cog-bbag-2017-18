@@ -1,7 +1,7 @@
 Change your alpha
 ================
 Rick Gilmore and Brad Wyble
-2017-10-11 07:50:21
+2017-10-11 07:55:13
 
 -   [What researchers should do](#what-researchers-should-do)
 -   [Why should they do this](#why-should-they-do-this)

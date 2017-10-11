@@ -10,4 +10,4 @@ Files related to the Cognitive Area brown bag meeting during the 2017-18 academi
 
 ### [2017-10-11](2017-10-11-p-lt-005.md), Brad Wyble & Rick Gilmore
 
-Evaluating a proposal by [Benjamin et al.](https://dx.doi.org/10.17605/OSF.IO/MKY9J) to change the standard *α* level for null hypothesis statistical testing (NHST) to *p* &lt; .005 and commentary by [Lakens et al.](https://psyarxiv.com/9s3y6).
+Evaluating a proposal by [Benjamin et al.](https://dx.doi.org/10.17605/OSF.IO/MKY9J) to change the standard *α* level for null hypothesis statistical testing (NHST) to *p* &lt; .005, with commentary by [Lakens et al.](https://psyarxiv.com/9s3y6) and [McShane et al.](http://www.stat.columbia.edu/~gelman/research/unpublished/abandon.pdf).
